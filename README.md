@@ -1,7 +1,7 @@
 # polaca513
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Emanuelly Rugiski
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -9,8 +9,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+manurugiski08@gmail.com
 
-@marcelopaludetto
+@h1_manuh
 
 ![descrição do GIF](link GIF do Tenor)
